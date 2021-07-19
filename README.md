@@ -3,8 +3,10 @@ General purpose Binary Search Tree library.
 
 include BST.h
 
-To construct a Binary Search tree you need to specify the data type of inserted values.
+To construct a Binary Search tree you need to specify the data type for which you want to construct Binary search tree .
+
 Functions avilable in BST are:-
+
 1.insert(val);
 2.search(val);
 3.preorder();
